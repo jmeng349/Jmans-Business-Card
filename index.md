@@ -1,5 +1,5 @@
 # My name is Jonathan M
-##### *Information Design Student*
+##### **Information Design Student**
 ---------------
 
 | Field     	| Details              	|
